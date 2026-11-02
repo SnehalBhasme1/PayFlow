@@ -2,7 +2,7 @@
 
 ## Overview
 
-PayFlow is a payment processing backend application built using Spring Boot and PostgreSQL. The system simulates a digital wallet platform where users can maintain wallet balances, make payments to merchants, request refunds, and track transactions.
+PayFlow is a payment processing backend application built using Spring Boot and PostgreSQL. The system simulates a digital wallet platform where users can maintain wallet balances, make payments to merchants, request refunds, and track transactions. 
 
 The primary goal of this project is to demonstrate backend engineering concepts such as transaction management, idempotency handling, layered architecture, and relational database design.
 
